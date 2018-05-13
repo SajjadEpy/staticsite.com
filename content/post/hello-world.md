@@ -9,9 +9,12 @@ Welcome to my Static Site done by -
     - HUGO,
     - GO (Language),
     - GIT,
+    - GITHub,
     - PowerShell of Windows,
     - Hugo Themes (Tag: Disqus)
     - Visual Studio Code,
     - Markdown (MD Language),
     - yaml, toml, json
-    - 
+    - Travis CI,
+    - Amazon S3,
+    - Amazon CloudFront.
